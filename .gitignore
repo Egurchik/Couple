@@ -1,0 +1,12 @@
+nbproject/
+build/
+dist/
+
+target/
+*.log
+
+.idea/
+*.iml
+
+.DS_Store
+Thumbs.db
